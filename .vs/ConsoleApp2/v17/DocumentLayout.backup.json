@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NATASHA\\Documents\\\u041C\u0438\u0448\u0430\\NET\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCEBF81-E978-476D-ACD1-768B6DE2281A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\natasha\\documents\\\u043C\u0438\u0448\u0430\\net\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCEBF81-E978-476D-ACD1-768B6DE2281A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NATASHA\\AppData\\Local\\Temp\\Rar$DIa1964.33471\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NATASHA\\AppData\\Local\\Temp\\Rar$DIa1964.33471\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa1964.33471\\Program.cs",
+              "ToolTip": "C:\\Users\\NATASHA\\AppData\\Local\\Temp\\Rar$DIa1964.33471\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa1964.33471\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:38:47.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NATASHA\\Documents\\\u041C\u0438\u0448\u0430\\NET\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\NATASHA\\Documents\\\u041C\u0438\u0448\u0430\\NET\\ConsoleApp2\\ConsoleApp2\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs*",
+              "ViewState": "AgIAAGwBAAAAAAAAAADwv4sBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:11:41.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
